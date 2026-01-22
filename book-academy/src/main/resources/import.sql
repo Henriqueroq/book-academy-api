@@ -1,0 +1,2 @@
+INSERT INTO tb_book (name, description, author) VALUES ('IT', 'It is a horror novel about a group of childhood friends known as the Losers’ Club who face an evil supernatural entity that terrorizes the town of Derry, Maine.', 'Stephen King');
+INSERT INTO tb_book (name, description, author) VALUES ('Jujutsu Kaisen', 'follows high schooler Yuji Itadori, who, after swallowing a cursed finger to save his friends, becomes the vessel for the ancient, powerful demon Sukuna, leading him to join a secret society of Jujutsu Sorcerers to fight curses.', 'Gege Akutami');
